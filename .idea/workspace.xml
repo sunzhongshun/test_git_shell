@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="280077c2-4138-4e80-ac6a-e396c05a60f2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/shunshun/git/Demo.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Hello.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hello.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/shunshun/git/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -23,6 +24,16 @@
                 <element signature="e#139#140#0" expanded="true" />
                 <element signature="e#179#180#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/shunshun/git/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,6 +59,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/shunshun/git/Hello.java" />
+        <option value="$PROJECT_DIR$/src/com/shunshun/git/Demo.java" />
       </list>
     </option>
   </component>
@@ -90,6 +102,17 @@
             <path>
               <item name="test_git_shell" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_git_shell" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_git_shell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_git_shell" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_git_shell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_git_shell" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,12 +235,12 @@
       <option name="presentableId" value="Default" />
       <updated>1572419840997</updated>
       <workItem from="1572419844448" duration="1334000" />
-      <workItem from="1572427149106" duration="1630000" />
+      <workItem from="1572427149106" duration="2410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2964000" />
+    <option name="totallyTimeSpent" value="3744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -281,6 +304,14 @@
             <element signature="e#139#140#0" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shunshun/git/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
